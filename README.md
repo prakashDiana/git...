@@ -45,3 +45,9 @@ Emoji_001.pfb
 :grinning: | :grin: | :joy: | :smiley: | :smile: | :sweat_smile: | :laughing: | :innocent: |
 :smiling_imp:|:wink:| :blush: | :yum: | :relieved:| :heart_eyes: | :sunglasses: | :smirk: |
 :neutral_face: | :expressionless: | :unamused: | :sweat: | :pensive: | :confused: | :confounded: | :kissing:|
+:kissing_heart: | :kissing_smiling_eyes: | :kissing_closed_eyes: | :stuck_out_tongue:| :stuck_out_tongue_winking_eye:| :stuck_out_tongue_closed_eyes:| :disappointed:| :worried: |
+:relaxed: | :exclamation: | :grey_exclamation: |:hash:| :angry: | :heavy_dollar_sign: | :rage: | :cry: | 
+:persevere:| :triumph: | :star: | :disappointed_relieved: | :frowning: | :anguished: | :heavy_check_mark: | :ab: |
+:zero: | :one: |:two:| :three: | :four: | :five: | :six: | :seven: |
+:eight: | :nine: | :sos: | :cl: | :new: | :ng:| :grey_question: | :question: |
+:fearful: | :a: | :b: | :copyright: | :weary: | :sleepy: |:tired_face: | :+1: |
