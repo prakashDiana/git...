@@ -51,3 +51,4 @@ Emoji_001.pfb
 :zero: | :one: |:two:| :three: | :four: | :five: | :six: | :seven: |
 :eight: | :nine: | :sos: | :cl: | :new: | :ng:| :grey_question: | :question: |
 :fearful: | :a: | :b: | :copyright: | :weary: | :sleepy: |:tired_face: | :+1: |
+:-1: | :information_source: | :grimacing: | :ok_hand: | :cool: | :m: | :no_entry: | :o:|
