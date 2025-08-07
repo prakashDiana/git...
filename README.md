@@ -44,3 +44,4 @@ Emoji_001.pfb
 --- | --- | --- | --- | --- | ---| ---|-|
 :grinning: | :grin: | :joy: | :smiley: | :smile: | :sweat_smile: | :laughing: | :innocent: |
 :smiling_imp:|:wink:| :blush: | :yum: | :relieved:| :heart_eyes: | :sunglasses: | :smirk: |
+:neutral_face: | :expressionless: | :unamused: | :sweat: | :pensive: | :confused: | :confounded: | :kissing:|
